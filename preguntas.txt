@@ -1,0 +1,46 @@
+1. ¿Qué es GIT?
+
+Git es como un asistente inteligente para los equipos de desarrollo de software. Te ayuda a mantener un registro 
+de todos los cambios que haces en tu código, como un diario de desarrollo. Puedes crear diferentes versiones de 
+tu proyecto para probar nuevas ideas sin afectar el trabajo principal.
+
+2. ¿Cuáles son los comandos más importantes y para que sirven?
+
+git init: Inicializa un nuevo repositorio Git.
+git clone: Clona un repositorio Git existente.
+git add: Agrega cambios al área de preparación.
+git commit: Guarda los cambios en el repositorio.
+git status: Muestra el estado actual del repositorio.
+git diff: Muestra las diferencias entre archivos.
+git log: Muestra el historial de commits.
+git branch: Administra ramas.
+git checkout: Cambia entre ramas o restaura archivos.
+git merge: Fusiona cambios de una rama a otra.
+git push: Envía cambios al repositorio remoto.
+git pull: Obtiene cambios del repositorio remoto.
+git remote: Administra conexiones remotas.
+
+3. ¿Cuál es la diferencia entre Git y Github?
+
+Git: Es un software que te ayuda a guardar y rastrear los cambios en un código de programación. Funciona 
+en las computadoras y permite trabajar sin conexión a internet.
+
+GitHub: Es como una red social para programadores. permite guardar un código en internet y trabajar con 
+otras personas en proyectos. GitHub usa Git para manejar los cambios en el código, pero está en línea y 
+se puede acceder a él desde cualquier lugar con internet.
+
+4. Enumere los comandos para subir cambios a un repositorio.
+
+1. git add .: Agrega todos los cambios al área de preparación.
+2. git commit -m "Mensaje": Guarda los cambios localmente con un mensaje.
+3. git push: Sube los cambios al repositorio remoto.
+
+5. ¿Qué es una branch?
+
+Una branch (rama) en Git es una línea de desarrollo independiente que se deriva del estado actual del 
+código. Permite a los desarrolladores trabajar en nuevas características o correcciones sin afectar el 
+código principal.
+
+
+
+
