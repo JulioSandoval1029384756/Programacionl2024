@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Creaciòn de clases\Creacion de clases\Creacion de clases\bin\Debug\net8.0\Creacion de clases.exe
+C:\Users\user\Desktop\Creaciòn de clases\Creacion de clases\Creacion de clases\bin\Debug\net8.0\Creacion de clases.deps.json
+C:\Users\user\Desktop\Creaciòn de clases\Creacion de clases\Creacion de clases\bin\Debug\net8.0\Creacion de clases.runtimeconfig.json
+C:\Users\user\Desktop\Creaciòn de clases\Creacion de clases\Creacion de clases\bin\Debug\net8.0\Creacion de clases.dll
+C:\Users\user\Desktop\Creaciòn de clases\Creacion de clases\Creacion de clases\bin\Debug\net8.0\Creacion de clases.pdb
+C:\Users\user\Desktop\Creaciòn de clases\Creacion de clases\Creacion de clases\obj\Debug\net8.0\Creacion de clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Creaciòn de clases\Creacion de clases\Creacion de clases\obj\Debug\net8.0\Creacion de clases.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Creaciòn de clases\Creacion de clases\Creacion de clases\obj\Debug\net8.0\Creacion de clases.AssemblyInfo.cs
+C:\Users\user\Desktop\Creaciòn de clases\Creacion de clases\Creacion de clases\obj\Debug\net8.0\Creacion de clases.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Creaciòn de clases\Creacion de clases\Creacion de clases\obj\Debug\net8.0\Creacion de clases.dll
+C:\Users\user\Desktop\Creaciòn de clases\Creacion de clases\Creacion de clases\obj\Debug\net8.0\refint\Creacion de clases.dll
+C:\Users\user\Desktop\Creaciòn de clases\Creacion de clases\Creacion de clases\obj\Debug\net8.0\Creacion de clases.pdb
+C:\Users\user\Desktop\Creaciòn de clases\Creacion de clases\Creacion de clases\obj\Debug\net8.0\Creacion de clases.genruntimeconfig.cache
+C:\Users\user\Desktop\Creaciòn de clases\Creacion de clases\Creacion de clases\obj\Debug\net8.0\ref\Creacion de clases.dll
