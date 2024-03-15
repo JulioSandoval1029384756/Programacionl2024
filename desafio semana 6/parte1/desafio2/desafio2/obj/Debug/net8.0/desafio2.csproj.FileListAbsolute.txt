@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\desafio semana 6\desafio2\desafio2\bin\Debug\net8.0\desafio2.exe
+C:\Users\user\Desktop\desafio semana 6\desafio2\desafio2\bin\Debug\net8.0\desafio2.deps.json
+C:\Users\user\Desktop\desafio semana 6\desafio2\desafio2\bin\Debug\net8.0\desafio2.runtimeconfig.json
+C:\Users\user\Desktop\desafio semana 6\desafio2\desafio2\bin\Debug\net8.0\desafio2.dll
+C:\Users\user\Desktop\desafio semana 6\desafio2\desafio2\bin\Debug\net8.0\desafio2.pdb
+C:\Users\user\Desktop\desafio semana 6\desafio2\desafio2\obj\Debug\net8.0\desafio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\desafio semana 6\desafio2\desafio2\obj\Debug\net8.0\desafio2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\desafio semana 6\desafio2\desafio2\obj\Debug\net8.0\desafio2.AssemblyInfo.cs
+C:\Users\user\Desktop\desafio semana 6\desafio2\desafio2\obj\Debug\net8.0\desafio2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\desafio semana 6\desafio2\desafio2\obj\Debug\net8.0\desafio2.dll
+C:\Users\user\Desktop\desafio semana 6\desafio2\desafio2\obj\Debug\net8.0\refint\desafio2.dll
+C:\Users\user\Desktop\desafio semana 6\desafio2\desafio2\obj\Debug\net8.0\desafio2.pdb
+C:\Users\user\Desktop\desafio semana 6\desafio2\desafio2\obj\Debug\net8.0\desafio2.genruntimeconfig.cache
+C:\Users\user\Desktop\desafio semana 6\desafio2\desafio2\obj\Debug\net8.0\ref\desafio2.dll

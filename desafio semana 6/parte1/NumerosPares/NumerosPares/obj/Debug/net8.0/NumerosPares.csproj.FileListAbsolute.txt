@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\desafio semana 6\NumerosPares\NumerosPares\bin\Debug\net8.0\NumerosPares.exe
+C:\Users\user\Desktop\desafio semana 6\NumerosPares\NumerosPares\bin\Debug\net8.0\NumerosPares.deps.json
+C:\Users\user\Desktop\desafio semana 6\NumerosPares\NumerosPares\bin\Debug\net8.0\NumerosPares.runtimeconfig.json
+C:\Users\user\Desktop\desafio semana 6\NumerosPares\NumerosPares\bin\Debug\net8.0\NumerosPares.dll
+C:\Users\user\Desktop\desafio semana 6\NumerosPares\NumerosPares\bin\Debug\net8.0\NumerosPares.pdb
+C:\Users\user\Desktop\desafio semana 6\NumerosPares\NumerosPares\obj\Debug\net8.0\NumerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\desafio semana 6\NumerosPares\NumerosPares\obj\Debug\net8.0\NumerosPares.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\desafio semana 6\NumerosPares\NumerosPares\obj\Debug\net8.0\NumerosPares.AssemblyInfo.cs
+C:\Users\user\Desktop\desafio semana 6\NumerosPares\NumerosPares\obj\Debug\net8.0\NumerosPares.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\desafio semana 6\NumerosPares\NumerosPares\obj\Debug\net8.0\NumerosPares.dll
+C:\Users\user\Desktop\desafio semana 6\NumerosPares\NumerosPares\obj\Debug\net8.0\refint\NumerosPares.dll
+C:\Users\user\Desktop\desafio semana 6\NumerosPares\NumerosPares\obj\Debug\net8.0\NumerosPares.pdb
+C:\Users\user\Desktop\desafio semana 6\NumerosPares\NumerosPares\obj\Debug\net8.0\NumerosPares.genruntimeconfig.cache
+C:\Users\user\Desktop\desafio semana 6\NumerosPares\NumerosPares\obj\Debug\net8.0\ref\NumerosPares.dll
